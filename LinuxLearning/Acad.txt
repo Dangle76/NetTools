@@ -1,0 +1,3 @@
+HISTFILESIZE environment variable
+
+export HISTFILESIZE=X increases the environment variable value
